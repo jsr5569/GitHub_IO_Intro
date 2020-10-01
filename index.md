@@ -8,4 +8,4 @@ This is a homework assignment for my [Software Engineering Freshman Seminar](htt
 
 ### What I Would Like To Learn 
 
-!{Image of Meatloaf](https://raw.githubusercontent.com/jsr5569/GitHub_IO_Intro/gh-pages/Meatloaf.jpg)
+![Image of Meatloaf](https://raw.githubusercontent.com/jsr5569/GitHub_IO_Intro/gh-pages/Meatloaf.png)
